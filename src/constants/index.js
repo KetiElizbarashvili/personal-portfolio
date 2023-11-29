@@ -184,7 +184,7 @@ const testimonials = [
   {
     testimonial:
       "keto aris aseti da iseti",
-    name: "vajiko",
+    name: "nepotizmovichi",
     designation: "direktori",
     company: "ragaca",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -192,7 +192,7 @@ const testimonials = [
   {
     testimonial:
       "keto aris aseti da iseti",
-    name: "kaci",
+    name: "qali",
     designation: "damlagebeli",
     company: "ragaca",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
