@@ -31,7 +31,7 @@ const Contact = () => {
         "template_1t76uxq",
         {
           form_name: form.name,
-          to_name: "Liron",
+          to_name: "keto",
           from_email: form.email,
           to_email: "contact@mail.com",
           message: form.message,
@@ -121,7 +121,7 @@ const Contact = () => {
         variants={slideIn("right", "tween", 0.2, 1)}
         className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]"
       >
-        <EarthCanvas />
+        
       </motion.div>
     </div>
   );

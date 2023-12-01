@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Junior React Native Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Programming Tutor",
     icon: creator,
   },
 ];
@@ -108,16 +108,13 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+ 
 ];
 
 const experiences = [
   {
     title: "Project Development Manager",
-    company_name: "Starbucks",
+    company_name: "Digital Media And Education Centre",
     date: "Jan 2022 - June 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -176,10 +173,10 @@ const testimonials = [
   {
     testimonial:
       "keto aris aseti da iseti",
-    name: "tiniko",
-    designation: "umprosi",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    name: "Stefen Glohard",
+    designation: " Sr. Agile Coach",
+    company: "BMW",
+    image: "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/324847960_915294382801855_3285689291595078421_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=zfFc2USmm-YAX-q2fw1&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfDJ19FE_7euwYJ8rHcDUZkf3WcLYV2vmCRm-SVm2ZZmTg&oe=656EE0C6",
   },
   {
     testimonial:
@@ -188,6 +185,62 @@ const testimonials = [
     designation: "direktori",
     company: "ragaca",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "Beka Baghaturia",
+    designation: "Sr. Angular Developer",
+    company: "Digital Governancy Academy",
+    image: "https://media.licdn.com/dms/image/D4D03AQFgv3X28wDdMw/profile-displayphoto-shrink_800_800/0/1690368889577?e=1706745600&v=beta&t=wTgp3Q4zSxL8pMTZu180r4mzt5yvQPCoJ7rain354YM",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "qali",
+    designation: "damlagebeli",
+    company: "ragaca",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "qali",
+    designation: "damlagebeli",
+    company: "ragaca",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "qali",
+    designation: "damlagebeli",
+    company: "ragaca",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "qali",
+    designation: "damlagebeli",
+    company: "ragaca",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "qali",
+    designation: "damlagebeli",
+    company: "ragaca",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "keto aris aseti da iseti",
+    name: "qali",
+    designation: "damlagebeli",
+    company: "ragaca",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
   {
     testimonial:
