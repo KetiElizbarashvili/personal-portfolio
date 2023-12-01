@@ -1,0 +1,5 @@
+{
+    "version": 2,
+    "builds": [{ "src": "npm run build", "use": "@vercel/node" }],
+    "engines": { "node": "14.x" }
+  }
