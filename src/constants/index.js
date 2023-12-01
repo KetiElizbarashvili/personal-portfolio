@@ -172,8 +172,16 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "keto aris aseti da iseti",
-    name: "Stefen Glohard",
+      "keto ",
+    name: "Nikoloz Chaduneli",
+    designation: "Sr. Software Engineer",
+    company: "TalkPal",
+    image: "https://media.licdn.com/dms/image/D4D03AQGN3kHfAzAi-Q/profile-displayphoto-shrink_800_800/0/1701239238848?e=1706745600&v=beta&t=LoBY6V1jliVKIHo1DJY1DWrpf5zevHONH_N4aM5Ono4",
+  },
+  {
+    testimonial:
+      "",
+    name: "Stefen ",
     designation: " Sr. Agile Coach",
     company: "BMW",
     image: "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/324847960_915294382801855_3285689291595078421_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=zfFc2USmm-YAX-q2fw1&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfDJ19FE_7euwYJ8rHcDUZkf3WcLYV2vmCRm-SVm2ZZmTg&oe=656EE0C6",
@@ -181,10 +189,10 @@ const testimonials = [
   {
     testimonial:
       "keto aris aseti da iseti",
-    name: "nepotizmovichi",
-    designation: "direktori",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    name: "Otar Davitashvili",
+    designation: "Sr. UI|UX Designer",
+    company: "Smart Solutions AI",
+    image: "https://media.licdn.com/dms/image/D4D35AQF8XYzTLwSTfg/profile-framedphoto-shrink_200_200/0/1684411015745?e=1702072800&v=beta&t=vdATbbOtZm7QYKAc3QpdAleroYVl0uwBygb9beiDWWE",
   },
   {
     testimonial:
@@ -196,60 +204,21 @@ const testimonials = [
   },
   {
     testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Keti is one of the few developers who never gives up, pushing through failures with relentless determination.",
+    name: "Vakhtang Elisabedashvili",
+    designation: "React Native Developer ",
+    image: "https://media.licdn.com/dms/image/D4D35AQHKvBi2VhJCRQ/profile-framedphoto-shrink_200_200/0/1662387142803?e=1702072800&v=beta&t=vPBtyxtyOupiM11TiA_Z_oDhCiM05z4JifgnPMPDQNQ",
   },
   {
     testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+    name: "Irakli Gabisonia",
+    designation: "Sr. Software Engineer",
+    company: "Andromeda",
+    image: "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/375173143_7453912061290218_3147564317036269806_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=2-Vn1F6LaTAAX8ehWS7&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCSnjSeNMoW_FgpyIe5XQILueYZ1qmOIQILGjNzF5EdXg&oe=656FCBBE",
   },
-  {
-    testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-  {
-    testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-  {
-    testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-  {
-    testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-  {
-    testimonial:
-      "keto aris aseti da iseti",
-    name: "qali",
-    designation: "damlagebeli",
-    company: "ragaca",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+
+
 ];
 
 const projects = [
