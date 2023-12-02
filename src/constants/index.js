@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "keto ",
+      "I had the pleasure of working closely with Keto for the past 1.5 years, and I can confidently attest to her exceptional intelligence as a software engineer. I wholeheartedly recommend her for any software engineering endeavor.",
     name: "Nikoloz Chaduneli",
     designation: "Sr. Software Engineer",
     company: "TalkPal",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "",
+      "Kate not only possesses a strong technical skill set but also excels in the agile development environment. Their collaborative mindset, coupled with an eagerness to embrace challenges, makes them an asset to any team",
     name: "Stefen ",
     designation: " Sr. Agile Coach",
     company: "BMW",
@@ -188,7 +188,23 @@ const testimonials = [
   },
   {
     testimonial:
-      "keto aris aseti da iseti",
+      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+    name: "Givi Kesanashvili",
+    designation: "Software Engineering Team Leader",
+    company: "Epam",
+    image: "https://media.licdn.com/dms/image/C5603AQFtPVtM6iGHnQ/profile-displayphoto-shrink_800_800/0/1519853719961?e=1706745600&v=beta&t=PDMbCFAPgzks0wrNrCBJgAEi_cA44pVB8zWHodoE3qM",
+  },
+  {
+    testimonial:
+      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+    name: "Zurab Dzuliashvili",
+    designation: "Deputy CEO",
+    company: "It Academy Step Georgia",
+    image: "https://media.licdn.com/dms/image/C4D03AQHF8imNt2kuvQ/profile-displayphoto-shrink_800_800/0/1658247503568?e=1706745600&v=beta&t=DBvvEEYjBwuGZ7SPBD_AYSRIBvvMpRio1RAiyyy1pkc",
+  },
+  {
+    testimonial:
+      "Collaborating with Keti was like riding a rollercoaster of innovation. Each twist and turn in the codebase was an exhilarating experience, and the result is a project that stands as a thrilling testament to their expertise.",
     name: "Otar Davitashvili",
     designation: "Sr. UI|UX Designer",
     company: "Smart Solutions AI",
@@ -196,12 +212,13 @@ const testimonials = [
   },
   {
     testimonial:
-      "keto aris aseti da iseti",
+      "I have been consistently impressed by Keto's exceptional problem-solving abilities and technical expertise, She has consistently proven to be an indispensable asset to our team, showcasing a level of skill and proficiency that sets her apart in the realm of software engineering.",
     name: "Beka Baghaturia",
     designation: "Sr. Angular Developer",
     company: "Digital Governancy Academy",
     image: "https://media.licdn.com/dms/image/D4D03AQFgv3X28wDdMw/profile-displayphoto-shrink_800_800/0/1690368889577?e=1706745600&v=beta&t=wTgp3Q4zSxL8pMTZu180r4mzt5yvQPCoJ7rain354YM",
   },
+ 
   {
     testimonial:
       "Keti is one of the few developers who never gives up, pushing through failures with relentless determination.",
@@ -216,6 +233,30 @@ const testimonials = [
     designation: "Sr. Software Engineer",
     company: "Andromeda",
     image: "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/375173143_7453912061290218_3147564317036269806_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=2-Vn1F6LaTAAX8ehWS7&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCSnjSeNMoW_FgpyIe5XQILueYZ1qmOIQILGjNzF5EdXg&oe=656FCBBE",
+  },
+  {
+    testimonial:
+      "Keti is a self-taught and aspiring software engineer. Her determination to develop new skills on her own to the level she has is a testament of her hard work.",
+    name: "Shota Mushkudiani",
+    designation: "Assistant General Manager",
+    company: "Marine Cargo Georgia",
+    image: "https://media.licdn.com/dms/image/D4D03AQEd49r1sbm9ow/profile-displayphoto-shrink_200_200/0/1685703595406?e=1706745600&v=beta&t=0gRZsPcjrs1AVIc8s1UYoCnH7wDk8WoGI2asrwY54RE",
+  },
+  {
+    testimonial:
+      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+    name: "Archil Sharashenidze",
+    designation: "Sr. Software Engineer",
+    company: "Grid Dynamics",
+    image: "https://media.licdn.com/dms/image/C4D03AQEgih_-Rzkr9A/profile-displayphoto-shrink_200_200/0/1575903889291?e=1706745600&v=beta&t=7iRF8anQETfWtbvbmjSHnTISefdt7TEfyDIDJ0TAk4U",
+  },
+  {
+    testimonial:
+      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+    name: "Dimitry Kurkchievi",
+    designation: "Sr. Software Engineer",
+    company: "CoachNow",
+    image: "https://media.licdn.com/dms/image/C5603AQGu0JWOmzdUug/profile-displayphoto-shrink_200_200/0/1616150033749?e=1706745600&v=beta&t=49GRPHUPhAdXv4nyG8TzeugLzcwYCig6YLzf4JBmXow",
   },
 
 
