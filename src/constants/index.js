@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Solidity Developer",
     icon: backend,
   },
   {
@@ -181,14 +181,14 @@ const testimonials = [
   {
     testimonial:
       "Kate not only possesses a strong technical skill set but also excels in the agile development environment. Their collaborative mindset, coupled with an eagerness to embrace challenges, makes them an asset to any team",
-    name: "Stefen ",
+    name: "Steffen Schrader",
     designation: " Sr. Agile Coach",
     company: "BMW",
-    image: "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/324847960_915294382801855_3285689291595078421_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=zfFc2USmm-YAX-q2fw1&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfDJ19FE_7euwYJ8rHcDUZkf3WcLYV2vmCRm-SVm2ZZmTg&oe=656EE0C6",
+    image: starbucks,
   },
   {
     testimonial:
-      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+      "Keti stands out with her inventive and clean design approach. Her work is a diverse showcase of what front-end development can achieve when skill meets imagination.",
     name: "Givi Kesanashvili",
     designation: "Software Engineering Team Leader",
     company: "Epam",
@@ -196,7 +196,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+      "I had a opportunity to work with Keti for 1 year. Keti consistently demonstrates exceptional problem-solving skills and a strong commitment to project success.",
     name: "Zurab Dzuliashvili",
     designation: "Deputy CEO",
     company: "It Academy Step Georgia",
@@ -224,6 +224,7 @@ const testimonials = [
       "Keti is one of the few developers who never gives up, pushing through failures with relentless determination.",
     name: "Vakhtang Elisabedashvili",
     designation: "React Native Developer ",
+    company: "Freelancer",
     image: "https://media.licdn.com/dms/image/D4D35AQHKvBi2VhJCRQ/profile-framedphoto-shrink_200_200/0/1662387142803?e=1702072800&v=beta&t=vPBtyxtyOupiM11TiA_Z_oDhCiM05z4JifgnPMPDQNQ",
   },
   {
