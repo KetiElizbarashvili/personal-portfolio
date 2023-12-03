@@ -245,20 +245,13 @@ const testimonials = [
   },
   {
     testimonial:
-      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
+      "Keti: super consistent builder, imppresive daily github presence. Asking amazing questions, always excited to discuss tech with her.",
     name: "Archil Sharashenidze",
     designation: "Sr. Software Engineer",
     company: "Grid Dynamics",
     image: "https://media.licdn.com/dms/image/C4D03AQEgih_-Rzkr9A/profile-displayphoto-shrink_200_200/0/1575903889291?e=1706745600&v=beta&t=7iRF8anQETfWtbvbmjSHnTISefdt7TEfyDIDJ0TAk4U",
   },
-  {
-    testimonial:
-      "I strongly recommend this hardworking developer; her GitHub profile showcases dedication, while her passion for sharing frontend trends and tips makes her an asset to any team.",
-    name: "Dimitry Kurkchievi",
-    designation: "Sr. Software Engineer",
-    company: "CoachNow",
-    image: "https://media.licdn.com/dms/image/C5603AQGu0JWOmzdUug/profile-displayphoto-shrink_200_200/0/1616150033749?e=1706745600&v=beta&t=49GRPHUPhAdXv4nyG8TzeugLzcwYCig6YLzf4JBmXow",
-  },
+
 
 
 ];
@@ -272,6 +265,7 @@ const projects = [
       {
         name: "react",
         color: "blue-text-gradient",
+        image:"",
       },
       {
         name: "mongodb",
