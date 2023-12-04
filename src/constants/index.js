@@ -218,7 +218,14 @@ const testimonials = [
     company: "Digital Governancy Academy",
     image: "https://media.licdn.com/dms/image/D4D03AQFgv3X28wDdMw/profile-displayphoto-shrink_800_800/0/1690368889577?e=1706745600&v=beta&t=wTgp3Q4zSxL8pMTZu180r4mzt5yvQPCoJ7rain354YM",
   },
- 
+  {
+    testimonial:
+      "Keti: super consistent builder, imppresive daily github presence. Asking amazing questions, always excited to discuss tech with her.",
+    name: "Nikoloz Khupenia",
+    designation: "Linux System Administrator",
+    company: "Bank Of Georgia",
+    image:" https://media.licdn.com/dms/image/C4D03AQEyCqqi69-kJQ/profile-displayphoto-shrink_400_400/0/1652164996547?e=1707350400&v=beta&t=5nq8LCzk7cYf39Z2MahvsZAYLjn9x-oa4SOR7tgcizY",
+  },
   {
     testimonial:
       "Keti is one of the few developers who never gives up, pushing through failures with relentless determination.",
@@ -245,72 +252,66 @@ const testimonials = [
   },
   {
     testimonial:
+      "Keti's GitHub portfolio is a testament to her proficiency in a variety of programming languages and her ability to tackle complex coding challenges with ease. Her projects showcase a keen understanding of software development principles, a meticulous approach to problem-solving, and a knack for creating efficient and scalable solutions.",
+    name: "Dimitri Kurkchievi",
+    designation: "Sr.Software Engineer",
+    company: "Coachnow",
+    image: "https://media.licdn.com/dms/image/C5603AQGu0JWOmzdUug/profile-displayphoto-shrink_800_800/0/1616150033749?e=1707350400&v=beta&t=EjEj94un8tt626OIbq2v-m8awHNzLDIgEuAoz4HM1AU",
+  },
+  {
+    testimonial:
       "Keti: super consistent builder, imppresive daily github presence. Asking amazing questions, always excited to discuss tech with her.",
     name: "Archil Sharashenidze",
     designation: "Sr. Software Engineer",
     company: "Grid Dynamics",
     image: "https://media.licdn.com/dms/image/C4D03AQEgih_-Rzkr9A/profile-displayphoto-shrink_200_200/0/1575903889291?e=1706745600&v=beta&t=7iRF8anQETfWtbvbmjSHnTISefdt7TEfyDIDJ0TAk4U",
   },
-
+  {
+    testimonial:
+      " Keti's technical expertise, combined with a strong problem-solving ability, has been instrumental in overcoming complex challenges and delivering high-quality solutions.",
+    name: "Tornike Lomidze",
+    designation: "Sr. Front-End Engineer",
+    company: "Crystal",
+    image: "https://media.licdn.com/dms/image/C4E03AQE5rxrFxcBoxA/profile-displayphoto-shrink_400_400/0/1636534883164?e=1707350400&v=beta&t=GuE_NrvHqIzcm3RSnKFK97B3rx_avuUqZIla5r6i5rw",
+  },
 
 
 ];
 
 const projects = [
   {
-    name: "proekti 1",
+    name: "Wecare",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Wecare is an ecommerce website designed to revolutionize the online shopping experience. Offering platform for users to purchase and redeem vouchers.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
-        image:"",
       },
       {
-        name: "mongodb",
+        name: "tailwindcss",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "nextjs",
         color: "pink-text-gradient",
       },
     ],
    
     source_code_link: "https://github.com/",
+    image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/405417988_122119440362053742_8128069207455836702_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Kwel9FqyKLsAX8F9KHn&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCJfTTpGMVx_3A7Fq0-ueJ9hHFm22m4m8aIqbkn1SAUXA&oe=657359F1",
   },
   {
-    name: "2",
+    name: "Bnollar",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Bnollar is a groundbreaking decentralized social network that empowers users with complete control over their data and online interactions.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "3",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
@@ -320,7 +321,273 @@ const projects = [
     ],
     
     source_code_link: "https://github.com/",
+    image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/407930531_122119440680053742_6699653647106811957_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_ohc=S6VIqq466isAX_hUb6N&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAaU_DB8L09OlzaFuOzJ2m-Lxku0FhqlSkPLVX_uu_Hxw&oe=6573B8AC"
   },
+  {
+    name: "Parazone",
+    description:
+      "Parazone introduces a paradigm shift in the real estate landscape by offering a decentralized platform that revolutionizes property transactions.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "reactjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+    ],
+     source_code_link: "https://github.com/OWN-Foundation/PARAZONE",
+    image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/407886938_122119440812053742_5861376136133998170_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=HRsaaK7zia4AX_3G2_M&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfD8KqzRrRbKhxtwdULidWoQbGKu5rPoUlcqU9mVecX3fQ&oe=6572A219"
+  },
+  
+      {
+        name: "Crypto Art Hub",
+        description:
+          "The CryptoArtHub NFT marketplace is a cutting-edge platform that redefines the art world by enabling artists to tokenize and sell their digital creations securely. ",
+        tags: [
+          {
+            name: "angular",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "tailwindcss",
+            color: "pink-text-gradient",
+          },
+    ],
+    
+    source_code_link: "https://github.com/NikaBeruashvilii/NFTMarketplace",
+    image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/408131641_122119441220053742_2425132508566679522_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=HCEzTI6P1BcAX9cVNzN&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfDFOmtKjeCpJw83fXHwhQkJbq7fHf83jVcoiZBT-KX8mA&oe=65727AE3",
+  },
+  {
+    name: "NFT Marketplace",
+    description:
+      "Cutting-edge NFT marketplace integrated with a music app, revolutionizing the way we experience and trade digital music assets. Artists can tokenize their tracks as unique NFTs. ",
+    tags: [
+      {
+        name: "angular",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+],
+
+source_code_link: "https://github.com/NikaBeruashvilii/NFTMarketplace",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/408149962_122119443254053742_3481242484787597338_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=MCyrxHBLUZkAX8P938B&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAZ-CtVWhRWfvB9zLeut-uJsNsnfGBfOYDWEr3Rs9-vpg&oe=6573AE8C",
+},
+  
+  {
+    name: "Personal Portfolio",
+    description:
+      " This portfolio seamlessly blends creativity with functionality, showcasing your skills, projects, and achievements in an elegant and interactive manner.  ",
+    tags: [
+      {
+        name: "svelte",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+        
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+        
+      },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/SveltePortfolio",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/401387270_122119450610053742_6848613284925207473_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=P9b4tlZdN2UAX9otN_o&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfC7TzP2zqk_i8x1jRK5NiNOw7XYK3wqfKIOm8zB6W1kRw&oe=6572B99C",
+},
+
+{
+  name: "Youtube Clone",
+  description:
+    "YouTube clone that replicates the familiar video-sharing platform experience, allowing users to upload, share, and engage with content seamlessly.  ",
+  tags: [
+    {
+      name: "reactnative",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "styled-components",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/YoutubeClone",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/408213513_122119441838053742_6199141336438753668_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=p25MrKmKcWIAX9elcEV&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAqaVihzo6UFJRG_G00lrRJHnrRCT_FJCNrbBbfZbvv6Q&oe=65722731",
+},
+
+{
+  name: "Plant App",
+  description:
+    "The  plant app is your go-to companion for all things botanical. With a vast plant database, it helps users identify, care for, and learn about various plants through detailed descriptions and visual guides. ",
+  tags: [
+    {
+      name: "react native",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "styled-components",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/ReactNativePlantApp",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/393165650_122119442072053742_4015574641163084681_n.jpg?stp=dst-jpg_p843x403&_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=_eodTgOnAdMAX877CaD&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfA5xGhwg_77iwxAj6_kQhTC5nleaM3V8IwAaZDexlAAGw&oe=6573758F",
+},
+
+{
+  name: "Neumorphism Projects",
+  description:
+    "Collection of projects embodying the neumorphism design trend, bringing a modern and tactile aesthetic to user interfaces.  ",
+  tags: [
+    {
+      name: "css",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "html",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/Neumorphism-Projects-",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/408148895_122119445402053742_8101426634561568522_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=UcY0FqxXn5IAX9oRidI&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfDZa5cIJyWSWgmKX66TSi70bqcZnoE7aqwWLjfluLiisw&oe=6573AFE9",
+}, 
+
+{
+  name: "Nefertiti",
+  description:
+    "Captivating project that brings the iconic Nefertiti to life in a three-dimensional, shattered masterpiece using Three.js.  ",
+  tags: [
+    {
+      name: "threejs",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "scss",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/Nefertiti",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/406457640_122119446206053742_4713480912587161109_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=hBU6zVWCx7YAX-qTnuf&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfB3ouThd76q2f-_2Ucox8HD4TCdq6O3btbdfr8IqPl12Q&oe=65733A06",
+}, 
+
+{
+  name: "Animated 3D Shelf",
+  description:
+    "Each book comes to life with realistic shadows and interactive animations, allowing users to navigate through the virtual shelf.   ",
+  tags: [
+    {
+      name: "html",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "css",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/3D-Shelf/tree/main",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/406498508_122119446800053742_2650193307740764349_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=80bRIN5YA0EAX90bUvy&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfBu0kqTOptevRZZgQuJIMyfa2GKUt_yTUuz7kZy3B_lxA&oe=6572A403",
+},  
+
+
+{
+  name: "Animated Globe",
+  description:
+    " Animated globe project that uses web technologies such as Three.js to create a dynamic and visually stunning representation of the Earth.  ",
+  tags: [
+    {
+      name: "threejs",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "css",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/ThreePlanet",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/406494934_122119449680053742_3177223247379703380_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=h9sAKGMF4RMAX-lZa6u&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAMINxDEPCVSoV4DZkxfP_O0pGPwEJsE3q1OD5MjE3gYA&oe=65733DAA",
+},  
+{
+  name: "Firework Simulator",
+  description:
+    " Firework simulator crafted with Three.js, immersing users in a dazzling virtual display of colors and patterns.  ",
+  tags: [
+    {
+      name: "three.js",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "scss",
+      color: "pink-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/Firework-Simulator",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/406444900_122119447460053742_3433588433616379239_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=4wkbM2MVgM0AX-lFtW5&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCcYsZV97b96g6Pmenkb7-OJKpy4lL3RmBcarHZ49GkjQ&oe=65739AE7",
+}, 
+{
+  name: "Marauder's Map",
+  description:
+    "  Magical project inspired by the Marauder's Map from Harry Potter, implemented with HTML, CSS, and JavaScript.   ",
+  tags: [
+    {
+      name: "javascript",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "css",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "pug",
+      color: "blue-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/HP-Marauder-sMap",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/406480089_122119449074053742_8039618192785733161_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=bV1m0-YNSxQAX_Ngokh&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCBGcUlTKcx6Wzvm1gAZ9l-vW86yd5qWsmNUrbG2GzR7w&oe=65725E24",
+},
+{
+  name: "Dive In Motion",
+  description:
+    " Captivating project that brings the underwater world to life through a mesmerizing fish animation.   ",
+  tags: [
+    {
+      name: "threejs",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "css",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "html",
+      color: "blue-text-gradient",
+    },
+],
+
+source_code_link: "https://github.com/KetiElizbarashvili/Fishes",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/406380483_122119448582053742_3371262477334840883_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=pcQvft2qLfAAX91JCUR&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCh2EZHNyWaQY6kYmYsqtaBxFsiqRdR9Vljd81viLAdSQ&oe=6573A02E",
+}, 
+ 
+
 ];
+
+
+
 
 export { services, technologies, experiences, testimonials, projects };
