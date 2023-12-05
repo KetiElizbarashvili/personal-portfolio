@@ -117,10 +117,10 @@ const experiences = [
     company_name: "Digital Media And Education Centre",
     date: "Jan 2022 - June 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Results-driven Project Manager with a proven track record in leading cross-functional teams and delivering successful projects.",
+      "Adept at managing the entire project lifecycle, from initiation to closure, while ensuring timely delivery within budget and scope.",
+      "Skilled in stakeholder management, risk assessment, and resource allocation.",
+
     ],
   },
   {
@@ -128,10 +128,8 @@ const experiences = [
     company_name: "Webapp",
     date: "Dec 2022 - Jul 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Frontend Developer with expertise in building robust and intuitive web applications using React.js. Skilled in creating responsive and engaging user interfaces that enhance user experiences.",
+      "Proficient in HTML, CSS, and JavaScript, with a keen eye for design and detail. Committed to staying updated with the latest industry trends and technologies. Let's connect and collaborate on exciting projects!",
     ],
   },
   {
@@ -139,10 +137,10 @@ const experiences = [
     company_name: "Bnollar",
     date: "Jun 2023 - Oct 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Experienced Frontend Developer specializing in React.js. Creating user-centric web apps with flair. HTML, CSS, JavaScript pro.",
+      "Solidity developer skilled in designing and implementing secure and efficient smart contracts on the Ethereum blockchain.",
+      "Proficient in Solidity syntax, object-oriented programming, and Ethereum ecosystem.",
+      
     ],
   },
   {
@@ -151,8 +149,8 @@ const experiences = [
     date: "Jun 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Experienced Solidity Developer and Full-stack Developer skilled in building secure and efficient decentralized applications.",
+      "Proficient in Solidity for smart contract development and creating user-friendly frontends with modern web technologies.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -161,10 +159,10 @@ const experiences = [
     company_name: "Algorithmics Global",
     date: "Sep 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Teaching Experience: Highlight your roles as an algorithmics, game design, Python, and frontend teacher at Algorithmics Global.",
+      "Curriculum Development - Mention your contributions to creating and improving course materials.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Technology Expertise - Emphasize your proficiency in Python programming and frontend development.",
     ],
   },
 ];
@@ -209,6 +207,14 @@ const testimonials = [
     designation: "Sr. UI|UX Designer",
     company: "Smart Solutions AI",
     image: "https://media.licdn.com/dms/image/D4D35AQF8XYzTLwSTfg/profile-framedphoto-shrink_200_200/0/1684411015745?e=1702072800&v=beta&t=vdATbbOtZm7QYKAc3QpdAleroYVl0uwBygb9beiDWWE",
+  },
+  {
+    testimonial:
+      "Keti is a collaborative team player. She communicates effectively, actively engages in brainstorming sessions, and readily shares her insights with the team. ",
+    name: "Irakli Bitskinashvili",
+    designation: "Chief Legal and Investor Relations Officer",
+    company: "Datamind",
+    image: "https://media.licdn.com/dms/image/C4D03AQFocEm0V95Icg/profile-displayphoto-shrink_800_800/0/1621698915355?e=1707350400&v=beta&t=tTixVqWya4ZV-wo3XA2yaR_y5w1e1JWg477_L969Ams",
   },
   {
     testimonial:
@@ -268,12 +274,21 @@ const testimonials = [
   },
   {
     testimonial:
+      " Keti is an outstanding Frontend Engineer whose technical prowess, problem-solving skills, and collaborative spirit make her an invaluable member of our team. ",
+    name: "Nika Arsenashvili",
+    designation: "Team Lead",
+    company: "TBC",
+    image: "https://media.licdn.com/dms/image/D4E03AQGHgt9z4U_8tQ/profile-displayphoto-shrink_800_800/0/1699083960047?e=1707350400&v=beta&t=-f0lHanlMVkJ_5M6DZm3-Lco737fanWMBrwlAEiAasw",
+  },
+  {
+    testimonial:
       " Keti's technical expertise, combined with a strong problem-solving ability, has been instrumental in overcoming complex challenges and delivering high-quality solutions.",
     name: "Tornike Lomidze",
     designation: "Sr. Front-End Engineer",
     company: "Crystal",
     image: "https://media.licdn.com/dms/image/C4E03AQE5rxrFxcBoxA/profile-displayphoto-shrink_400_400/0/1636534883164?e=1707350400&v=beta&t=GuE_NrvHqIzcm3RSnKFK97B3rx_avuUqZIla5r6i5rw",
   },
+ 
 
 
 ];
@@ -379,7 +394,7 @@ const projects = [
 ],
 
 source_code_link: "https://github.com/NikaBeruashvilii/NFTMarketplace",
-image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/408149962_122119443254053742_3481242484787597338_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=MCyrxHBLUZkAX8P938B&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAZ-CtVWhRWfvB9zLeut-uJsNsnfGBfOYDWEr3Rs9-vpg&oe=6573AE8C",
+image:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/408125085_122119529306053742_3472282003355129142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=En4hKh3WDYwAX-M-kws&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfC7hCtnpHqjX4PD74bqWhKgOio7s3QzfLpTZSk_jtH_Rw&oe=6574B6CE",
 },
   
   {
