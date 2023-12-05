@@ -64,7 +64,7 @@ const Navbar = () => {
         >
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Keti  &nbsp;
-            <span className="sm:block hidden"> | 3D Portfolio</span>
+            <span className="sm:block hidden"> |  Portfolio</span>
           </p>
         </Link>
 
