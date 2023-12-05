@@ -208,14 +208,7 @@ const testimonials = [
     company: "Smart Solutions AI",
     image: "https://media.licdn.com/dms/image/D4D35AQF8XYzTLwSTfg/profile-framedphoto-shrink_200_200/0/1684411015745?e=1702072800&v=beta&t=vdATbbOtZm7QYKAc3QpdAleroYVl0uwBygb9beiDWWE",
   },
-  {
-    testimonial:
-      "Keti is a collaborative team player. She communicates effectively, actively engages in brainstorming sessions, and readily shares her insights with the team. ",
-    name: "Irakli Bitskinashvili",
-    designation: "Chief Legal and Investor Relations Officer",
-    company: "Datamind",
-    image: "https://media.licdn.com/dms/image/C4D03AQFocEm0V95Icg/profile-displayphoto-shrink_800_800/0/1621698915355?e=1707350400&v=beta&t=tTixVqWya4ZV-wo3XA2yaR_y5w1e1JWg477_L969Ams",
-  },
+  
   {
     testimonial:
       "I have been consistently impressed by Keto's exceptional problem-solving abilities and technical expertise, She has consistently proven to be an indispensable asset to our team, showcasing a level of skill and proficiency that sets her apart in the realm of software engineering.",
@@ -248,14 +241,7 @@ const testimonials = [
     company: "Andromeda",
     image: "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/375173143_7453912061290218_3147564317036269806_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=2-Vn1F6LaTAAX8ehWS7&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfCSnjSeNMoW_FgpyIe5XQILueYZ1qmOIQILGjNzF5EdXg&oe=656FCBBE",
   },
-  {
-    testimonial:
-      "Keti is a self-taught and aspiring software engineer. Her determination to develop new skills on her own to the level she has is a testament of her hard work.",
-    name: "Shota Mushkudiani",
-    designation: "Assistant General Manager",
-    company: "Marine Cargo Georgia",
-    image: "https://media.licdn.com/dms/image/D4D03AQEd49r1sbm9ow/profile-displayphoto-shrink_200_200/0/1685703595406?e=1706745600&v=beta&t=0gRZsPcjrs1AVIc8s1UYoCnH7wDk8WoGI2asrwY54RE",
-  },
+  
   {
     testimonial:
       "Keti's GitHub portfolio is a testament to her proficiency in a variety of programming languages and her ability to tackle complex coding challenges with ease. Her projects showcase a keen understanding of software development principles, a meticulous approach to problem-solving, and a knack for creating efficient and scalable solutions.",
@@ -280,15 +266,7 @@ const testimonials = [
     company: "TBC",
     image: "https://media.licdn.com/dms/image/D4E03AQGHgt9z4U_8tQ/profile-displayphoto-shrink_800_800/0/1699083960047?e=1707350400&v=beta&t=-f0lHanlMVkJ_5M6DZm3-Lco737fanWMBrwlAEiAasw",
   },
-  {
-    testimonial:
-      " Keti's technical expertise, combined with a strong problem-solving ability, has been instrumental in overcoming complex challenges and delivering high-quality solutions.",
-    name: "Tornike Lomidze",
-    designation: "Sr. Front-End Engineer",
-    company: "Crystal",
-    image: "https://media.licdn.com/dms/image/C4E03AQE5rxrFxcBoxA/profile-displayphoto-shrink_400_400/0/1636534883164?e=1707350400&v=beta&t=GuE_NrvHqIzcm3RSnKFK97B3rx_avuUqZIla5r6i5rw",
-  },
- 
+
 
 
 ];
